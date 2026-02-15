@@ -1,1 +1,5 @@
-a+b=2
+a+b=5
+sub
+a-b
+multiplicatioon
+a*b=
