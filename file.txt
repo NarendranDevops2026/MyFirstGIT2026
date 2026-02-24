@@ -1,2 +1,4 @@
 #Merge Demo
 Line1
+#Adding Line 2
+Line 2
